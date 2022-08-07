@@ -1,0 +1,25 @@
+.container{
+    margin: 20px auto;
+    padding: 30px;
+    text-align: center;
+    background-color: bisque;
+
+}
+#display{
+    padding: 20px;
+    margin: 20px;
+    font-size: 40px;
+}
+#letter{
+    font-size: 20px;
+    height: 50px;
+    width:50px;
+}
+#checkbtn, #refreshbtn{
+    background-color:brown;
+    padding: 5px;
+    color: white;
+}
+#checkbtn:hover, #refreshbtn:hover{
+    cursor: pointer;
+}
